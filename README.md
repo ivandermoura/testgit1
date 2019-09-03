@@ -1,2 +1,2 @@
 # testgit1
-# tesgit for command repository
+ tesgit for command repository
