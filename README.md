@@ -2,4 +2,4 @@
  tesgit for command repository
 
 # Another Git Test
- another git change
+ another git change for rebase
